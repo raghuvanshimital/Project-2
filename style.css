@@ -2,6 +2,11 @@
 body{
     color:white;
 }
+<<<<<<< HEAD
 body{
     color:azure;
+=======
+body {
+    color:aqua;
+>>>>>>> feature
 }
